@@ -23,7 +23,7 @@ server will start at localhost:4000
 
 # ***DEPLOYED URL OF BACKEND ***
  
-  1. Open the url in the browser : https://petstore-client.onrender.com
+  1. Open the url in the browser : https://petstorebackend.onrender.com
 
 
 
