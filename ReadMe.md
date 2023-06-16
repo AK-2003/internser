@@ -1,8 +1,7 @@
 
 # ***INITIALIZE AND RUN CODE (LOCAL MACHINE)***
 
-1. Open the backend folder in the VS Code
-
+1. Open the backend folder in the VS Code(update the mongodb url in config.env present in config)
 -> Install all dependencies
 
 2. npm i
